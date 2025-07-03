@@ -2,8 +2,10 @@ body{
  background-color: rgb(86, 24, 202);
  
 }
-p {
+h1 {
     font-style: italic;
     color: rgb(214, 59, 150);
     font-size: larger;
 }
+h2 {
+    color: blue;
