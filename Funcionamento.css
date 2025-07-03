@@ -2,11 +2,38 @@ body {
     background-color: rgb(202, 110, 24);
     text-align: center;
     margin: 0;
+    padding: 20px;
     font-family: Arial, sans-serif;
+    color: #ffffff; /* cor do texto padrão */
 }
 
 h1 {
     font-style: italic;
     color: rgb(59, 204, 214);
-    font-size: 2em; /* melhor que "larger", pois é mais preciso */
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+h2, h3 {
+    color: #ffe9a0;
+}
+
+p {
+    max-width: 800px;
+    margin: 0 auto 20px;
+    line-height: 1.6;
+    font-size: 1.1em;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background-color: rgba(255, 255, 255, 0.1);
+    margin: 8px auto;
+    padding: 10px;
+    border-radius: 8px;
+    width: fit-content;
 }
