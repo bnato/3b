@@ -1,14 +1,24 @@
-body{
- background-color: rgb(231, 217, 237);
- text-align: center;
-}
-h1 {
-    font-style: italic;
-    color: rgb(214, 59, 150);
-    font-size: larger;
-}
-h2 {
-    color: rgb(14, 229, 157);
-    font-weight:200;
+body {
+  background-color: #f3e9f7;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
 }
 
+h1 {
+  font-style: italic;
+  color: #d63b96;
+  font-size: 2.5rem;
+  margin-top: 2rem;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #0ee59d;
+  font-weight: 300;
+  font-size: 1.8rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
