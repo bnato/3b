@@ -1,0 +1,9 @@
+body{
+ background-color: rgb(202, 110, 24);
+ text-align: center;
+}
+h1 {
+    font-style: italic;
+    color: rgb(59, 204, 214);
+    font-size: larger;
+}
