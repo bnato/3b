@@ -1,9 +1,9 @@
-body{
- background-color: rgb(255, 162, 146);
- 
+body {
+  background-color: rgb(255, 162, 146);
 }
+
 h1 {
-    font-style: italic;
-    color: rgb(214, 204, 59);
-    font-size: larger;
+  font-style: italic;
+  color: rgb(214, 204, 59);
+  font-size: larger;
 }
